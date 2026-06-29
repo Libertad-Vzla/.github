@@ -30,7 +30,7 @@ Un ciudadano envía un reporte. El sistema lo agrupa con otros reportes del mism
 
 ## Acceso y colaboración
 
-El sitio es público: [libertadvzla.com](https://www.libertadvzla.com). El código está en un repositorio privado y el acceso es por invitación. Una versión de muestra de la arquitectura está en [LuisSambrano/libertad-showcase](https://github.com/LuisSambrano/libertad-showcase).
+El sitio es público: [libertadvzla.com](https://www.libertadvzla.com). El código está en un repositorio privado y el acceso es por invitación. Una versión de muestra de la arquitectura está en [Libertad-Vzla/libertad-showcase](https://github.com/Libertad-Vzla/libertad-showcase).
 
 Para colaborar (voluntariado, periodismo, traducción) o reportar un problema de seguridad, escribí a contacto@libertadvzla.com.
 
