@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://www.libertadvzla.com">Sitio</a>
   &nbsp; <a href="https://www.libertadvzla.com/news">Noticias</a>
+  &nbsp; <a href="https://www.libertadvzla.com/victims">Víctimas</a>
   &nbsp; <a href="https://www.libertadvzla.com/sos">SOS</a>
   &nbsp; <a href="https://www.libertadvzla.com/reportar">Reportar</a>
 </p>
@@ -18,6 +19,7 @@ Libertad VZLA es un medio de periodismo ciudadano para Venezuela. La gente repor
 ## Qué hay
 
 - 📰 **Noticias** por estado y municipio, con comentarios de la comunidad → [libertadvzla.com/news](https://www.libertadvzla.com/news)
+- 🕊️ **Víctimas**, registro público de personas detenidas por motivos políticos y desaparecidas → [/victims](https://www.libertadvzla.com/victims)
 - 🆘 **SOS Venezuela** (activo por el terremoto): buscar y reportar personas desaparecidas, alertas de sismo, hospitales, guías de primeros auxilios y orientación → [/sos](https://www.libertadvzla.com/sos)
 - 📨 **Reportar** lo que pasa en tu zona, con tu identidad protegida → [/reportar](https://www.libertadvzla.com/reportar)
 - 🎓 **Panel ciudadano**: aprende a verificar información, sigue tus aportes y participa → [/account](https://www.libertadvzla.com/account)
@@ -42,7 +44,7 @@ Voluntariado, periodismo, traducción o reportes de seguridad: ver [CONTRIBUTING
 
 ## English
 
-Libertad VZLA is a citizen-journalism outlet for Venezuela. People report what happens in their area; we organize, process, and publish it with state and municipality segmentation. It covers regional news with community comments, SOS Venezuela (an emergency tool active since the June 24, 2026 earthquake), citizen reporting, and a citizen panel for learning and participation. Read the news at [libertadvzla.com](https://www.libertadvzla.com), or see how it all works in detail at [libertad-showcase](https://github.com/Libertad-Vzla/libertad-showcase). Contact: contacto@libertadvzla.com.
+Libertad VZLA is a citizen-journalism outlet for Venezuela. People report what happens in their area; we organize, process, and publish it with state and municipality segmentation. It covers regional news with community comments, Víctimas (a public registry of people detained on political grounds and the disappeared), SOS Venezuela (an emergency tool active since the June 24, 2026 earthquake), citizen reporting, and a citizen panel for learning and participation. Read the news at [libertadvzla.com](https://www.libertadvzla.com), or see how it all works in detail at [libertad-showcase](https://github.com/Libertad-Vzla/libertad-showcase). Contact: contacto@libertadvzla.com.
 
 ---
 
