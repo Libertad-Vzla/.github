@@ -14,25 +14,22 @@
 
 ---
 
-## Qué es
+Libertad VZLA es un medio de periodismo ciudadano para Venezuela. La gente cuenta lo que pasa en su zona y nosotros lo ordenamos, lo procesamos y lo publicamos con segmentación por estado y municipio.
 
-Libertad VZLA es una plataforma de periodismo ciudadano para Venezuela. Recibe reportes de ciudadanos, los contrasta con fuentes documentales y publica notas de interés público con segmentación por estado y municipio.
+## Empezá por acá
 
-## Cómo funciona
+- 📰 **Leer noticias** → [libertadvzla.com/news](https://www.libertadvzla.com/news)
+- 📨 **Reportar algo** → [libertadvzla.com/reportar](https://www.libertadvzla.com/reportar)
+- 🆘 **Emergencia** (activo por el terremoto) → [libertadvzla.com/sos](https://www.libertadvzla.com/sos)
+- 🕊️ **Personas detenidas** (Memoria Viva) → [libertadvzla.com/victims](https://www.libertadvzla.com/victims)
+- 📖 **Conocer el proyecto a fondo** → [libertad-showcase](https://github.com/Libertad-Vzla/libertad-showcase)
+- 🤝 **Colaborar o prensa** → [CONTRIBUTING.md](./CONTRIBUTING.md) · contacto@libertadvzla.com
 
-Un ciudadano envía un reporte. El sistema lo agrupa con otros reportes del mismo hecho y un editor lo revisa contra fuentes antes de publicarlo. La identidad de quien reporta se guarda separada del contenido.
+## Nuestros repositorios
 
-## Secciones
-
-- **Noticias.** Notas publicadas tras revisión editorial.
-- **Memoria Viva.** Registro de personas detenidas por motivos políticos, con fichas actualizables y un historial de cambios.
-- **SOS Venezuela.** Herramienta de emergencia para reportar daños, buscar personas y ubicar hospitales y centros de acopio.
-
-## Acceso y colaboración
-
-El sitio es público: [libertadvzla.com](https://www.libertadvzla.com). El código está en un repositorio privado y el acceso es por invitación. Una versión de muestra de la arquitectura está en [Libertad-Vzla/libertad-showcase](https://github.com/Libertad-Vzla/libertad-showcase).
-
-Para colaborar (voluntariado, periodismo, traducción) o reportar un problema de seguridad, escribí a contacto@libertadvzla.com.
+- **[libertad-showcase](https://github.com/Libertad-Vzla/libertad-showcase)** — explicación al detalle del proyecto y su arquitectura.
+- **.github** (este) — gobernanza común de la organización: código de conducta, guía de colaboración y política de seguridad.
+- La aplicación es de código privado; el acceso es por invitación.
 
 ## Contacto
 
@@ -44,7 +41,7 @@ Para colaborar (voluntariado, periodismo, traducción) o reportar un problema de
 
 ## English
 
-Libertad VZLA is a citizen-journalism platform for Venezuela. Citizens submit reports; the system groups them by event and an editor verifies them against sources before publishing. The site is public at libertadvzla.com; the source code is private and access is by invitation. Contact: contacto@libertadvzla.com.
+Libertad VZLA is a citizen-journalism outlet for Venezuela. People report what happens in their area; we organize, process, and publish it with state and municipality segmentation. Read the news at [libertadvzla.com](https://www.libertadvzla.com), or learn how the project works in detail at [libertad-showcase](https://github.com/Libertad-Vzla/libertad-showcase). Contact: contacto@libertadvzla.com.
 
 ---
 
